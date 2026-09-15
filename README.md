@@ -6,7 +6,7 @@
 
 <img width="865" height="465" alt="屏幕截图 2026-08-24 085835" src="https://github.com/user-attachments/assets/c0dd4404-451a-4581-981d-c78b7582ef46" />
 
-## **Visual Studio**常见问题（重要）
+## **Visual Studio** 常见问题（重要）
 
 ### 问题一：C4996 报错
 
