@@ -1,4 +1,4 @@
-# C语言练习项目：学生信息管理系统
+# C 语言练习项目：学生信息管理系统
 
 基于**动态数组**或**链表**实现的控制台学生信息管理系统
 
@@ -6,7 +6,7 @@
 
 <img width="865" height="465" alt="屏幕截图 2026-08-24 085835" src="https://github.com/user-attachments/assets/c0dd4404-451a-4581-981d-c78b7582ef46" />
 
-## **Visual Studio** 常见问题（重要）
+## **Visual Studio** 常见问题
 
 ### 问题一：C4996 报错
 
